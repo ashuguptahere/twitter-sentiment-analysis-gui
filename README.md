@@ -1,4 +1,4 @@
-# SentimentAnalysis_GUI
+# Twitter Sentiment Analysis GUI (using PyQt5)
 A Desktop Application for Twitter Sentiment Analysis made from PyQt5 Python Framework.
 
 Just download the files and set your working location/path, run the Login.py file and you're good to go...
