@@ -1,0 +1,5 @@
+tweepy
+textblob
+matplotlib
+sqlite3
+PyQt5
